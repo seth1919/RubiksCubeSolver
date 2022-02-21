@@ -1,1 +1,1 @@
-"# RubiksCubeSolver" 
+# RubiksCubeSolver
